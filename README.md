@@ -1,4 +1,4 @@
-# Spotify Account Generator
+# Spotify Account Creator
 > usage: **php spotify.php**
 
 ```
