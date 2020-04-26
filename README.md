@@ -1,5 +1,5 @@
-# Spotify Account Creator
-> usage: **php spotify.php**
+# Spotify Account Stuff
+> usage: **php what-file.php**
 
 ```
 Use this application at your own risk!
