@@ -14,4 +14,4 @@ IDGAF If your IP get banned after using this application.
 - [ ] Spotify Playlist Auto Follower with Custom Domain
 - [ ] Spotify Playlist Auto Follower with Custom Token Database
 
-I accept your help to grow this tool! [Contact me here](fb.me/extgfx)
+I accept your help to grow this tool! [Contact me here](https://fb.me/extgfx)
