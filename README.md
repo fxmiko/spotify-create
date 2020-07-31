@@ -2,7 +2,7 @@
 
 Usage: 
 ```bash
-php creatify.php
+> php creatify.php
 ```
 
 ```
